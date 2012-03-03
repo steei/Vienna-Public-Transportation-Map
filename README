@@ -1,1 +1,1 @@
-Vienna public transportation map sql dump with lat,long,station names 
+Vienna public transportation map:A big sql list of public transportation lines, including:	+ station name	+ line name	+ line number	+ lines at station	+ lat	+ long	Can be freely used, a notice would be nice. Not responsible for any damages or inaccuracy. 
